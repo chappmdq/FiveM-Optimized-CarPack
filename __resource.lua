@@ -1,8 +1,12 @@
 resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
 
----------------------- CarPack by Ach ----------------------
+---------------------- CARPACK BY ACH ----------------------
 
--- 14r8
+------------------ SpawnCode -- (Car Name) ------------------
+
+
+
+-- 14r8 -- (Audi R8)
 
 files {
     'data/14r8/vehicles.meta',
@@ -18,7 +22,7 @@ data_file 'CARCOLS_FILE'           'data/14r8/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/14r8/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/14r8/vehiclelayouts.meta' 
 
--- 16challenger
+-- 16challenger -- (Dodge Challenger)
 
 files {
     'data/16challenger/vehicles.meta',
@@ -34,7 +38,7 @@ data_file 'CARCOLS_FILE'           'data/16challenger/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/16challenger/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/16challenger/vehiclelayouts.meta'
 
--- urus
+-- urus -- (Lamborghini Urus)
 
 files {
     'data/urus/vehicles.meta',
@@ -50,7 +54,7 @@ data_file 'CARCOLS_FILE'           'data/urus/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/urus/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/urus/vehiclelayouts.meta' 
 
--- 18Velar
+-- 18Velar -- (Range Rover Velar)
 
 files {
     'data/18Velar/vehicles.meta',
@@ -66,7 +70,7 @@ data_file 'CARCOLS_FILE'           'data/18Velar/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/18Velar/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/18Velar/vehiclelayouts.meta' 
 
--- 69charger
+-- 69charger -- (Dodge Challenger 1969)
 
 files {
     'data/69charger/vehicles.meta',
@@ -82,7 +86,7 @@ data_file 'CARCOLS_FILE'           'data/69charger/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/69charger/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/69charger/vehiclelayouts.meta' 
 
--- 206
+-- 206 -- (Peugeot 206)
 
 files {
     'data/206/vehicles.meta',
@@ -98,7 +102,7 @@ data_file 'CARCOLS_FILE'           'data/206/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/206/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/206/vehiclelayouts.meta' 
 
--- 350z
+-- 350z -- (Nissan 350z)
 
 files {
     'data/350z/vehicles.meta',
@@ -114,7 +118,7 @@ data_file 'CARCOLS_FILE'           'data/350z/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/350z/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/350z/vehiclelayouts.meta' 
 
--- 370z
+-- 370z -- (Nissan 370z)
 
 files {
     'data/370z/vehicles.meta',
@@ -130,7 +134,7 @@ data_file 'CARCOLS_FILE'           'data/370z/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/370z/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/370z/vehiclelayouts.meta' 
 
--- 504
+-- 504 -- (Peugeot 504)
 
 files {
     'data/504/vehicles.meta',
@@ -146,7 +150,7 @@ data_file 'CARCOLS_FILE'           'data/504/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/504/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/504/vehiclelayouts.meta' 
 
--- 718gt4
+-- 718gt4 -- (Porsche 718 Cayman GT4)
 
 files {
     'data/718gt4/vehicles.meta',
@@ -162,7 +166,7 @@ data_file 'CARCOLS_FILE'           'data/718gt4/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/718gt4/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/718gt4/vehiclelayouts.meta' 
 
--- 720s
+-- 720s -- (Mclaren 720s)
 
 files {
     'data/720s/vehicles.meta',
@@ -178,7 +182,7 @@ data_file 'CARCOLS_FILE'           'data/720s/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/720s/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/720s/vehiclelayouts.meta' 
 
--- 911gt3rs
+-- 911gt3rs -- (Porsche 911 GT3 RS)
 
 files {
     'data/911gt3rs/vehicles.meta',
@@ -194,7 +198,7 @@ data_file 'CARCOLS_FILE'           'data/911gt3rs/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/911gt3rs/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/911gt3rs/vehiclelayouts.meta' 
 
--- 911turbos
+-- 911turbos -- (Porsche 911 Turbo S)
 
 files {
     'data/911turbos/vehicles.meta',
@@ -210,7 +214,7 @@ data_file 'CARCOLS_FILE'           'data/911turbos/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/911turbos/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/911turbos/vehiclelayouts.meta' 
 
--- 918
+-- 918 -- (Porsche 918)
 
 files {
     'data/918/vehicles.meta',
@@ -226,7 +230,7 @@ data_file 'CARCOLS_FILE'           'data/918/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/918/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/918/vehiclelayouts.meta' 
 
--- 2016ranger
+-- 2016ranger -- (Ford Ranger)
 
 files {
     'data/2016ranger/vehicles.meta',
@@ -242,7 +246,7 @@ data_file 'CARCOLS_FILE'           'data/2016ranger/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/2016ranger/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/2016ranger/vehiclelayouts.meta' 
 
--- 2019zr1
+-- 2019zr1 -- (Chevrolet ZR1)
 
 files {
     'data/2019zr1/vehicles.meta',
@@ -258,7 +262,7 @@ data_file 'CARCOLS_FILE'           'data/2019zr1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/2019zr1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/2019zr1/vehiclelayouts.meta' 
 
--- 2020silv
+-- 2020silv -- (Chevrolet Silverado)
 
 files {
     'data/2020silv/vehicles.meta',
@@ -274,7 +278,7 @@ data_file 'CARCOLS_FILE'           'data/2020silv/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/2020silv/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/2020silv/vehiclelayouts.meta' 
 
--- a6
+-- a6 -- (Audi A6)
 
 files {
     'data/a6/vehicles.meta',
@@ -290,7 +294,7 @@ data_file 'CARCOLS_FILE'           'data/a6/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/a6/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/a6/vehiclelayouts.meta' 
 
--- a45
+-- a45 -- (Mercedes A45)
 
 files {
     'data/a45/vehicles.meta',
@@ -306,7 +310,7 @@ data_file 'CARCOLS_FILE'           'data/a45/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/a45/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/a45/vehiclelayouts.meta' 
 
--- agera2011
+-- agera2011 -- (Koenigsegg Agera)
 
 files {
     'data/agera2011/vehicles.meta',
@@ -322,7 +326,7 @@ data_file 'CARCOLS_FILE'           'data/agera2011/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/agera2011/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/agera2011/vehiclelayouts.meta' 
 
--- agerars
+-- agerars -- (Koenigsegg Agera RS)
 
 files {
     'data/agerars/vehicles.meta',
@@ -338,7 +342,7 @@ data_file 'CARCOLS_FILE'           'data/agerars/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/agerars/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/agerars/vehiclelayouts.meta' 
 
--- amarok
+-- amarok -- (Volkswagen Amarok V6)
 
 files {
     'data/amarok/vehicles.meta',
@@ -354,7 +358,7 @@ data_file 'CARCOLS_FILE'           'data/amarok/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/amarok/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/amarok/vehiclelayouts.meta' 
 
--- amggt
+-- amggt -- (Mercedes AMG GT)
 
 files {
     'data/amggt/vehicles.meta',
@@ -370,7 +374,7 @@ data_file 'CARCOLS_FILE'           'data/amggt/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/amggt/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/amggt/vehiclelayouts.meta' 
 
--- amggtc
+-- amggtc -- (Mercedes AMG GTC) 
 
 files {
     'data/amggtc/vehicles.meta',
@@ -386,7 +390,7 @@ data_file 'CARCOLS_FILE'           'data/amggtc/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/amggtc/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/amggtc/vehiclelayouts.meta' 
 
--- ap2   (honda s2000)
+-- ap2 -- (Honda s2000)
 
 files {
     'data/ap2/vehicles.meta',
@@ -402,7 +406,7 @@ data_file 'CARCOLS_FILE'           'data/ap2/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ap2/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ap2/vehiclelayouts.meta' 
 
--- audsq517
+-- audsq517 -- (Audi SQ5)
 
 files {
     'data/audsq517/vehicles.meta',
@@ -418,7 +422,7 @@ data_file 'CARCOLS_FILE'           'data/audsq517/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/audsq517/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/audsq517/vehiclelayouts.meta' 
 
--- aventadors
+-- aventadors -- (Lamborghini Aventador S)
 
 files {
     'data/aventadors/vehicles.meta',
@@ -434,7 +438,7 @@ data_file 'CARCOLS_FILE'           'data/aventadors/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/aventadors/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/aventadors/vehiclelayouts.meta' 
 
--- brz13
+-- brz13 -- (Subaru BRZ)
 
 files {
     'data/brz13/vehicles.meta',
@@ -450,7 +454,7 @@ data_file 'CARCOLS_FILE'           'data/brz13/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/brz13/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/brz13/vehiclelayouts.meta' 
 
--- c63s
+-- c63s -- (Mercedes C63 S)
 
 files {
     'data/c63s/vehicles.meta',
@@ -466,7 +470,7 @@ data_file 'CARCOLS_FILE'           'data/c63s/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/c63s/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/c63s/vehiclelayouts.meta' 
 
--- cayenne 
+-- cayenne -- (Porsche Cayenne)
 
 files {
     'data/cayenne/vehicles.meta',
@@ -482,7 +486,7 @@ data_file 'CARCOLS_FILE'           'data/cayenne/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cayenne/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cayenne/vehiclelayouts.meta' 
 
--- cgt   (carreragt)
+-- cgt -- (Porsche Carrera GT)
 
 files {
     'data/cgt/vehicles.meta',
@@ -498,7 +502,7 @@ data_file 'CARCOLS_FILE'           'data/cgt/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cgt/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cgt/vehiclelayouts.meta' 
 
--- cgts  (Bentley Continental GT)
+-- cgts -- (Bentley Continental GT)
 
 files {
     'data/cgts/vehicles.meta',
@@ -514,7 +518,7 @@ data_file 'CARCOLS_FILE'           'data/cgts/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cgts/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cgts/vehiclelayouts.meta' 
 
--- chevelle1970
+-- chevelle1970 -- (Chevrolet Chevelle 1970)
 
 files {
     'data/chevelle1970/vehicles.meta',
@@ -530,7 +534,7 @@ data_file 'CARCOLS_FILE'           'data/chevelle1970/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/chevelle1970/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/chevelle1970/vehiclelayouts.meta' 
 
--- chiron17
+-- chiron17 -- (Bugatti Chiron)
 
 files {
     'data/chiron17/vehicles.meta',
@@ -546,7 +550,7 @@ data_file 'CARCOLS_FILE'           'data/chiron17/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/chiron17/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/chiron17/vehiclelayouts.meta' 
 
--- clio  (Williams)
+-- clio -- (Renault Clio Williams)
 
 files {
     'data/clio/vehicles.meta',
@@ -562,7 +566,7 @@ data_file 'CARCOLS_FILE'           'data/clio/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/clio/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/clio/vehiclelayouts.meta' 
 
--- cliors
+-- cliors -- (Renault Clio RS)
 
 files {
     'data/cliors/vehicles.meta',
@@ -578,7 +582,7 @@ data_file 'CARCOLS_FILE'           'data/cliors/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cliors/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cliors/vehiclelayouts.meta' 
 
--- cobra
+-- cobra -- (Shelby Cobra)
 
 files {
     'data/cobra/vehicles.meta',
@@ -594,7 +598,7 @@ data_file 'CARCOLS_FILE'           'data/cobra/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cobra/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cobra/vehiclelayouts.meta' 
 
--- cooperworks
+-- cooperworks -- (Mini Cooper "John Cooper Works")
 
 files {
     'data/cooperworks/vehicles.meta',
@@ -610,7 +614,7 @@ data_file 'CARCOLS_FILE'           'data/cooperworks/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cooperworks/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cooperworks/vehiclelayouts.meta' 
 
--- crv   (honda)
+-- crv -- (Honda CR-V)
 
 files {
     'data/crv/vehicles.meta',
@@ -626,7 +630,7 @@ data_file 'CARCOLS_FILE'           'data/crv/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/crv/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/crv/vehiclelayouts.meta' 
 
--- czr1  (corvette)
+-- czr1 -- (Corvette ZR1 2009)
 
 files {
     'data/czr1/vehicles.meta',
@@ -642,7 +646,7 @@ data_file 'CARCOLS_FILE'           'data/czr1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/czr1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/czr1/vehiclelayouts.meta' 
 
--- dbs08
+-- dbs08 -- (Aston Martin DBS 2008)
 
 files {
     'data/dbs08/vehicles.meta',
@@ -658,7 +662,7 @@ data_file 'CARCOLS_FILE'           'data/dbs08/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/dbs08/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/dbs08/vehiclelayouts.meta' 
 
--- divo
+-- divo -- (Bugatti Divo)
 
 files {
     'data/divo/vehicles.meta',
@@ -674,7 +678,7 @@ data_file 'CARCOLS_FILE'           'data/divo/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/divo/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/divo/vehiclelayouts.meta' 
 
--- dodgecnp  (police dodge)
+-- dodgecnp -- (Police Dodge Charger)
 
 files {
     'data/dodgecnp/vehicles.meta',
@@ -690,7 +694,7 @@ data_file 'CARCOLS_FILE'           'data/dodgecnp/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/dodgecnp/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/dodgecnp/vehiclelayouts.meta' 
 
--- DZSB  (Rolls Royce Phantom)
+-- DZSB -- (Rolls Royce Phantom)
 
 files {
     'data/DZSB/vehicles.meta',
@@ -706,7 +710,7 @@ data_file 'CARCOLS_FILE'           'data/DZSB/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/DZSB/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/DZSB/vehiclelayouts.meta' 
 
--- esprit02
+-- esprit02 -- (Lotus Esprit)
 
 files {
     'data/esprit02/vehicles.meta',
@@ -722,7 +726,7 @@ data_file 'CARCOLS_FILE'           'data/esprit02/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/esprit02/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/esprit02/vehiclelayouts.meta' 
 
--- evo9
+-- evo9 -- (Mitsubishi Evo)
 
 files {
     'data/evo9/vehicles.meta',
@@ -738,7 +742,7 @@ data_file 'CARCOLS_FILE'           'data/evo9/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/evo9/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/evo9/vehiclelayouts.meta' 
 
--- exp10  (Bentley)
+-- exp10 -- (Bentley EXP 10 Speed 6)
 
 files {
     'data/exp10/vehicles.meta',
@@ -754,7 +758,7 @@ data_file 'CARCOLS_FILE'           'data/exp10/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/exp10/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/exp10/vehiclelayouts.meta' 
 
--- f1  (McLaren)
+-- f1 -- (McLaren F1)
 
 files {
     'data/f1/vehicles.meta',
@@ -770,7 +774,7 @@ data_file 'CARCOLS_FILE'           'data/f1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f1/vehiclelayouts.meta' 
 
--- f8t
+-- f8t -- (Ferrari F8 Tributo)
 
 files {
     'data/f8t/vehicles.meta',
@@ -786,7 +790,7 @@ data_file 'CARCOLS_FILE'           'data/f8t/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f8t/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f8t/vehiclelayouts.meta' 
 
--- f40
+-- f40 -- (Ferrari F40)
 
 files {
     'data/f40/vehicles.meta',
@@ -802,7 +806,7 @@ data_file 'CARCOLS_FILE'           'data/f40/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f40/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f40/vehiclelayouts.meta' 
 
--- f430s
+-- f430s -- (Ferrari F430s)
 
 files {
     'data/f430s/vehicles.meta',
@@ -818,7 +822,7 @@ data_file 'CARCOLS_FILE'           'data/f430s/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f430s/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f430s/vehiclelayouts.meta' 
 
--- f458
+-- f458 -- (Ferrari 458 Italia)
 
 files {
     'data/f458/vehicles.meta',
@@ -834,7 +838,7 @@ data_file 'CARCOLS_FILE'           'data/f458/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f458/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f458/vehiclelayouts.meta' 
 
--- f15078
+-- f15078 -- (Ford F150 1978)
 
 files {
     'data/f15078/vehicles.meta',
@@ -850,7 +854,7 @@ data_file 'CARCOLS_FILE'           'data/f15078/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f15078/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f15078/vehiclelayouts.meta' 
 
--- fe86  (Escort)
+-- fe86  (Ford Escort)
 
 files {
     'data/fe86/vehicles.meta',
@@ -866,7 +870,7 @@ data_file 'CARCOLS_FILE'           'data/fe86/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fe86/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fe86/vehiclelayouts.meta' 
 
--- ff50
+-- ff50 -- (Ferrari F50)
 
 files {
     'data/ff50/vehicles.meta',
@@ -882,7 +886,7 @@ data_file 'CARCOLS_FILE'           'data/ff50/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ff50/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ff50/vehiclelayouts.meta' 
 
--- fiat600
+-- fiat600 -- (Fiat 600)
 
 files {
     'data/fiat600/vehicles.meta',
@@ -898,7 +902,7 @@ data_file 'CARCOLS_FILE'           'data/fiat600/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fiat600/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fiat600/vehiclelayouts.meta'
 
--- focusrs
+-- focusrs -- (Ford Focus RS)
 
 files {
     'data/focusrs/vehicles.meta',
@@ -914,7 +918,7 @@ data_file 'CARCOLS_FILE'           'data/focusrs/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/focusrs/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/focusrs/vehiclelayouts.meta'
 
--- fortwo  (smart)
+-- fortwo -- (Smart ForTwo)
 
 files {
     'data/fortwo/vehicles.meta',
@@ -930,7 +934,7 @@ data_file 'CARCOLS_FILE'           'data/fortwo/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fortwo/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fortwo/vehiclelayouts.meta'
 
--- fox
+-- fox -- (Volkswagen Fox)
 
 files {
     'data/fox/vehicles.meta',
@@ -946,7 +950,7 @@ data_file 'CARCOLS_FILE'           'data/fox/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fox/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fox/vehiclelayouts.meta'
 
--- g63amg6x6
+-- g63amg6x6 -- (Mercedes G63 AMG 6x6)
 
 files {
     'data/g63amg6x6/vehicles.meta',
@@ -962,7 +966,7 @@ data_file 'CARCOLS_FILE'           'data/g63amg6x6/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/g63amg6x6/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/g63amg6x6/vehiclelayouts.meta'
 
--- gemera
+-- gemera -- (Koenigsegg Gemera)
 
 files {
     'data/gemera/vehicles.meta',
@@ -978,7 +982,7 @@ data_file 'CARCOLS_FILE'           'data/gemera/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/gemera/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/gemera/vehiclelayouts.meta'
 
--- GT2RS
+-- GT2RS -- (Porsche 911 GT2 RS)
 
 files {
     'data/GT2RS/vehicles.meta',
@@ -994,7 +998,7 @@ data_file 'CARCOLS_FILE'           'data/GT2RS/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/GT2RS/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/GT2RS/vehiclelayouts.meta'
 
--- gt17  (Ford gt)
+-- gt17 -- (Ford GT)
 
 files {
     'data/gt17/vehicles.meta',
@@ -1010,7 +1014,7 @@ data_file 'CARCOLS_FILE'           'data/gt17/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/gt17/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/gt17/vehiclelayouts.meta'
 
--- gtr  (Nissan)
+-- gtr -- (Nissan GTR R35)
 
 files {
     'data/gtr/vehicles.meta',
@@ -1026,7 +1030,7 @@ data_file 'CARCOLS_FILE'           'data/gtr/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/gtr/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/gtr/vehiclelayouts.meta'
 
--- hevo  (Huracan)
+-- hevo -- (Lamborghini Huracan)
 
 files {
     'data/hevo/vehicles.meta',
@@ -1042,7 +1046,7 @@ data_file 'CARCOLS_FILE'           'data/hevo/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/hevo/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/hevo/vehiclelayouts.meta'
 
--- hondacivictr
+-- hondacivictr -- (Honda Civic Type R)
 
 files {
     'data/hondacivictr/vehicles.meta',
@@ -1058,7 +1062,7 @@ data_file 'CARCOLS_FILE'           'data/hondacivictr/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/hondacivictr/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/hondacivictr/vehiclelayouts.meta'
 
--- huayra
+-- huayra -- (Pagani Huayra)
 
 files {
     'data/huayra/vehicles.meta',
@@ -1074,7 +1078,7 @@ data_file 'CARCOLS_FILE'           'data/huayra/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/huayra/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/huayra/vehiclelayouts.meta'
 
--- huayrar
+-- huayrar -- (Pagani Huayra Roadster)
 
 files {
     'data/huayrar/vehicles.meta',
@@ -1090,7 +1094,7 @@ data_file 'CARCOLS_FILE'           'data/huayrar/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/huayrar/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/huayrar/vehiclelayouts.meta'
 
--- HurPerNov     (Huracan Novitec)
+-- HurPerNov -- (Lamborghini Huracan EVO)
 
 files {
     'data/HurPerNov/vehicles.meta',
@@ -1106,7 +1110,7 @@ data_file 'CARCOLS_FILE'           'data/HurPerNov/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/HurPerNov/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/HurPerNov/vehiclelayouts.meta'
 
--- jeep2012
+-- jeep2012 -- (Jeep Wrangler)
 
 files {
     'data/jeep2012/vehicles.meta',
@@ -1122,7 +1126,7 @@ data_file 'CARCOLS_FILE'           'data/jeep2012/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/jeep2012/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/jeep2012/vehiclelayouts.meta'
 
--- KoeniggsegAgeraR
+-- KoeniggsegAgeraR -- (Koenigsegg Agera R)
 
 files {
     'data/KoenigseggAgeraR/vehicles.meta',
@@ -1138,7 +1142,7 @@ data_file 'CARCOLS_FILE'           'data/KoenigseggAgeraR/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/KoenigseggAgeraR/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/KoenigseggAgeraR/vehiclelayouts.meta'
 
--- laferrari
+-- laferrari -- (Ferrari LaFerrari)
 
 files {
     'data/laferrari/vehicles.meta',
@@ -1154,7 +1158,7 @@ data_file 'CARCOLS_FILE'           'data/laferrari/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/laferrari/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/laferrari/vehiclelayouts.meta'
 
--- ldsv  (Lamb Diablo)
+-- ldsv -- (Lamborghini Diablo SV)
 
 files {
     'data/ldsv/vehicles.meta',
@@ -1170,7 +1174,7 @@ data_file 'CARCOLS_FILE'           'data/ldsv/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ldsv/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ldsv/vehiclelayouts.meta'
 
--- lp670sv  (Murcielago)
+-- lp670sv -- (Lamborghini Murcielago)
 
 files {
     'data/lp670sv/vehicles.meta',
@@ -1186,7 +1190,7 @@ data_file 'CARCOLS_FILE'           'data/lp670sv/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/lp670sv/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/lp670sv/vehiclelayouts.meta'
 
--- lp700  (Aventador)
+-- lp700 -- (Lamborghini Aventador LP700)
 
 files {
     'data/lp700/vehicles.meta',
@@ -1202,7 +1206,7 @@ data_file 'CARCOLS_FILE'           'data/lp700/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/lp700/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/lp700/vehiclelayouts.meta'
 
--- lp770  (Centenario)
+-- lp770 -- (Lamborghini Centenario)
 
 files {
     'data/lp770/vehicles.meta',
@@ -1218,7 +1222,7 @@ data_file 'CARCOLS_FILE'           'data/lp770/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/lp770/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/lp770/vehiclelayouts.meta'
 
--- m2
+-- m2 -- (BMW M2)
 
 files {
     'data/m2/vehicles.meta',
@@ -1234,7 +1238,7 @@ data_file 'CARCOLS_FILE'           'data/m2/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/m2/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/m2/vehiclelayouts.meta'
 
--- m3e46
+-- m3e46 -- (BMW M3 E46)
 
 files {
     'data/m3e46/vehicles.meta',
@@ -1250,7 +1254,7 @@ data_file 'CARCOLS_FILE'           'data/m3e46/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/m3e46/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/m3e46/vehiclelayouts.meta'
 
--- m3e92
+-- m3e92 -- (BMW M3 E92)
 
 files {
     'data/m3e92/vehicles.meta',
@@ -1266,7 +1270,7 @@ data_file 'CARCOLS_FILE'           'data/m3e92/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/m3e92/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/m3e92/vehiclelayouts.meta'
 
--- macan
+-- macan -- (Porsche Macan)
 
 files {
     'data/macan/vehicles.meta',
@@ -1282,7 +1286,7 @@ data_file 'CARCOLS_FILE'           'data/macan/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/macan/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/macan/vehiclelayouts.meta'
 
--- mbc63
+-- mbc63 -- (Mercedes C63 Black Series)
 
 files {
     'data/mbc63/vehicles.meta',
@@ -1298,7 +1302,7 @@ data_file 'CARCOLS_FILE'           'data/mbc63/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mbc63/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mbc63/vehiclelayouts.meta'
 
--- mcst   (M Speedtail)
+-- mcst -- (McLaren SpeedTail)
 
 files {
     'data/mcst/vehicles.meta',
@@ -1314,7 +1318,7 @@ data_file 'CARCOLS_FILE'           'data/mcst/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mcst/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mcst/vehiclelayouts.meta'
 
--- mig  (Ferrari Enzo)
+-- mig -- (Ferrari Enzo)
 
 files {
     'data/mig/vehicles.meta',
@@ -1330,7 +1334,7 @@ data_file 'CARCOLS_FILE'           'data/mig/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mig/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mig/vehiclelayouts.meta'
 
--- mlbrabus
+-- mlbrabus -- (Mercedes ML Brabus)
 
 files {
     'data/mlbrabus/vehicles.meta',
@@ -1346,7 +1350,7 @@ data_file 'CARCOLS_FILE'           'data/mlbrabus/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mlbrabus/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mlbrabus/vehiclelayouts.meta'
 
--- model S
+-- model S -- (Testa Model S)
 
 files {
     'data/models/vehicles.meta',
@@ -1362,7 +1366,7 @@ data_file 'CARCOLS_FILE'           'data/models/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/models/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/models/vehiclelayouts.meta'
 
--- mustang19
+-- mustang19 -- (Ford Mustang 2019)
 
 files {
     'data/mustang19/vehicles.meta',
@@ -1378,7 +1382,7 @@ data_file 'CARCOLS_FILE'           'data/mustang19/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mustang19/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mustang19/vehiclelayouts.meta'
 
--- mvisiongt
+-- mvisiongt -- (Mercedes Vision GT Concept)
 
 files {
     'data/mvisiongt/vehicles.meta',
@@ -1394,7 +1398,7 @@ data_file 'CARCOLS_FILE'           'data/mvisiongt/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mvisiongt/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mvisiongt/vehiclelayouts.meta'
 
--- na1   (NSX)
+-- na1 -- (Nissan NSX)
 
 files {
     'data/na1/vehicles.meta',
@@ -1410,7 +1414,7 @@ data_file 'CARCOLS_FILE'           'data/na1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/na1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/na1/vehiclelayouts.meta'
 
--- p1
+-- p1 -- (McLaren P1)
 
 files {
     'data/p1/vehicles.meta',
@@ -1426,7 +1430,7 @@ data_file 'CARCOLS_FILE'           'data/p1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/p1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/p1/vehiclelayouts.meta'
 
--- p308
+-- p308 -- (Peugeot 308)
 
 files {
     'data/p308/vehicles.meta',
@@ -1442,7 +1446,7 @@ data_file 'CARCOLS_FILE'           'data/p308/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/p308/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/p308/vehiclelayouts.meta'
 
--- phantomcola  (CocaColaTruck)
+-- phantomcola -- (CocaColaTruck)
 
 files {
     'data/phantomcola/vehicles.meta',
@@ -1458,7 +1462,7 @@ data_file 'CARCOLS_FILE'           'data/phantomcola/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/phantomcola/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/phantomcola/vehiclelayouts.meta'
 
--- pistaspider19
+-- pistaspider19 -- (Ferrari 488 Pista Spider) (Convertible Car)
 
 files {
     'data/pistaspider19/vehicles.meta',
@@ -1474,7 +1478,7 @@ data_file 'CARCOLS_FILE'           'data/pistaspider19/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/pistaspider19/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/pistaspider19/vehiclelayouts.meta'
 
--- polgt17  (Police Ford GT)
+-- polgt17 -- (Police Ford GT)
 
 files {
     'data/polgt17/vehicles.meta',
@@ -1490,7 +1494,7 @@ data_file 'CARCOLS_FILE'           'data/polgt17/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/polgt17/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/polgt17/vehiclelayouts.meta'
 
--- polo2018
+-- polo2018 -- (Volkswagen Polo)
 
 files {
     'data/polo2018/vehicles.meta',
@@ -1522,7 +1526,7 @@ data_file 'CARCOLS_FILE'           'data/r820/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/r820/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/r820/vehiclelayouts.meta'
 
--- RAPTOR150
+-- RAPTOR150 -- (Ford Raptor F150)
 
 files {
     'data/RAPTOR150/vehicles.meta',
@@ -1538,7 +1542,7 @@ data_file 'CARCOLS_FILE'           'data/RAPTOR150/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/RAPTOR150/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/RAPTOR150/vehiclelayouts.meta'
 
--- regera
+-- regera -- (Koenigsegg Regera)
 
 files {
     'data/regera/vehicles.meta',
@@ -1554,7 +1558,7 @@ data_file 'CARCOLS_FILE'           'data/regera/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/regera/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/regera/vehiclelayouts.meta'
 
--- renault4
+-- renault4 -- (Renault 4L)
 
 files {
     'data/renault4/vehicles.meta',
@@ -1570,7 +1574,7 @@ data_file 'CARCOLS_FILE'           'data/renault4/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/renault4/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/renault4/vehiclelayouts.meta'
 
--- rmodgt63
+-- rmodgt63 -- (Mercedes Benz GT63 S Coupe)
 
 files {
     'data/rmodgt63/vehicles.meta',
@@ -1586,7 +1590,7 @@ data_file 'CARCOLS_FILE'           'data/rmodgt63/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rmodgt63/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/rmodgt63/vehiclelayouts.meta'
 
--- rs7
+-- rs7 -- (Audi RS7)
 
 files {
     'data/rs7/vehicles.meta',
@@ -1602,7 +1606,7 @@ data_file 'CARCOLS_FILE'           'data/rs7/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rs7/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/rs7/vehiclelayouts.meta'
 
--- rs318
+-- rs318 -- (Audi RS3)
 
 files {
     'data/rs318/vehicles.meta',
@@ -1618,7 +1622,7 @@ data_file 'CARCOLS_FILE'           'data/rs318/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rs318/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/rs318/vehiclelayouts.meta'
 
--- s60pole
+-- s60pole -- (Volvo S60)
 
 files {
     'data/s60pole/vehicles.meta',
@@ -1634,7 +1638,7 @@ data_file 'CARCOLS_FILE'           'data/s60pole/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/s60pole/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/s60pole/vehiclelayouts.meta'
 
--- s63w222
+-- s63w222 -- (Mercedes Benz S63 W222)
 
 files {
     'data/s63w222/vehicles.meta',
@@ -1650,7 +1654,7 @@ data_file 'CARCOLS_FILE'           'data/s63w222/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/s63w222/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/s63w222/vehiclelayouts.meta'
 
--- senna
+-- senna -- (McLaren Senna)
 
 files {
     'data/senna/vehicles.meta',
@@ -1666,7 +1670,7 @@ data_file 'CARCOLS_FILE'           'data/senna/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/senna/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/senna/vehiclelayouts.meta'
 
--- shelbygt500
+-- shelbygt500 -- (Shelby GT500)
 
 files {
     'data/shelbygt500/vehicles.meta',
@@ -1682,7 +1686,7 @@ data_file 'CARCOLS_FILE'           'data/shelbygt500/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/shelbygt500/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/shelbygt500/vehiclelayouts.meta'
 
--- SingerDLS
+-- SingerDLS -- (Porsche 911 Singer DLS)
 
 files {
     'data/SingerDLS/vehicles.meta',
@@ -1698,7 +1702,7 @@ data_file 'CARCOLS_FILE'           'data/SingerDLS/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/SingerDLS/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/SingerDLS/vehiclelayouts.meta'
 
--- skyline
+-- skyline -- (Nissan Skyline GTR R34)
 
 files {
     'data/skyline/vehicles.meta',
@@ -1714,7 +1718,7 @@ data_file 'CARCOLS_FILE'           'data/skyline/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/skyline/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/skyline/vehiclelayouts.meta'
 
--- slsamg
+-- slsamg -- (Mercedes Benz SLS AMG)
 
 files {
     'data/slsamg/vehicles.meta',
@@ -1730,7 +1734,7 @@ data_file 'CARCOLS_FILE'           'data/slsamg/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/slsamg/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/slsamg/vehiclelayouts.meta'
 
--- srt8
+-- srt8 -- (Jeep SRT8)
 
 files {
     'data/srt8/vehicles.meta',
@@ -1746,7 +1750,7 @@ data_file 'CARCOLS_FILE'           'data/srt8/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/srt8/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/srt8/vehiclelayouts.meta'
 
--- ss69
+-- ss69 -- (Chevrolet Camaro SS 1969)
 
 files {
     'data/ss69/vehicles.meta',
@@ -1762,23 +1766,7 @@ data_file 'CARCOLS_FILE'           'data/ss69/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ss69/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ss69/vehiclelayouts.meta'
 
--- subwrx
-
-files {
-    'data/subwrx/vehicles.meta',
-    'data/subwrx/carvariations.meta',
-    'data/subwrx/carcols.meta',
-    'data/subwrx/handling.meta',
-    'data/subwrx/vehiclelayouts.meta',    
-}
-
-data_file 'HANDLING_FILE'          'data/subwrx/handling.meta'
-data_file 'VEHICLE_METADATA_FILE'  'data/subwrx/vehicles.meta'
-data_file 'CARCOLS_FILE'           'data/subwrx/carcols.meta'
-data_file 'VEHICLE_VARIATION_FILE' 'data/subwrx/carvariations.meta'
-data_file 'VEHICLE_LAYOUTS_FILE'   'data/subwrx/vehiclelayouts.meta'
-
--- supersport  (Bugatti Veyron)
+-- supersport -- (Bugatti Veyron)
 
 files {
     'data/supersport/vehicles.meta',
@@ -1794,7 +1782,7 @@ data_file 'CARCOLS_FILE'           'data/supersport/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/supersport/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/supersport/vehiclelayouts.meta'
 
--- a80  (Supra)
+-- a80 -- (Toyota Supra A80)
 
 files {
     'data/a80/vehicles.meta',
@@ -1810,7 +1798,7 @@ data_file 'CARCOLS_FILE'           'data/a80/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/a80/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/a80/vehiclelayouts.meta'
 
--- tesla X
+-- tesla X -- (Tesla Model X)
 
 files {
     'data/teslax/vehicles.meta',
@@ -1826,7 +1814,7 @@ data_file 'CARCOLS_FILE'           'data/teslax/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/teslax/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/teslax/vehiclelayouts.meta'
 
--- trx  (Dodge RAM)
+-- trx -- (Dodge RAM)
 
 files {
     'data/trx/vehicles.meta',
@@ -1842,7 +1830,7 @@ data_file 'CARCOLS_FILE'           'data/trx/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/trx/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/trx/vehiclelayouts.meta'
 
--- ts1   (Zenvo)
+-- ts1 -- (Zenvo TS1)
 
 files {
     'data/ts1/vehicles.meta',
@@ -1858,7 +1846,7 @@ data_file 'CARCOLS_FILE'           'data/ts1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ts1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ts1/vehiclelayouts.meta'
 
--- tts07  (TT)
+-- tts07 -- (Audi TT)
 
 files {
     'data/tts07/vehicles.meta',
@@ -1874,7 +1862,7 @@ data_file 'CARCOLS_FILE'           'data/tts07/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/tts07/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/tts07/vehiclelayouts.meta'
 
--- twingo  
+-- twingo -- (Renault Twingo)
 
 files {
     'data/twingo/vehicles.meta',
@@ -1890,7 +1878,7 @@ data_file 'CARCOLS_FILE'           'data/twingo/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/twingo/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/twingo/vehiclelayouts.meta'
 
--- veneno
+-- veneno -- (Lamborghini Veneno)
 
 files {
     'data/veneno/vehicles.meta',
@@ -1906,7 +1894,7 @@ data_file 'CARCOLS_FILE'           'data/veneno/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/veneno/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/veneno/vehiclelayouts.meta'
 
--- virage
+-- virage -- (Aston Martin Virage)
 
 files {
     'data/virage/vehicles.meta',
@@ -1922,7 +1910,7 @@ data_file 'CARCOLS_FILE'           'data/virage/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/virage/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/virage/vehiclelayouts.meta'
 
--- vwr    (Scirocco)
+-- vwr -- (Volkswagen Scirocco)
 
 files {
     'data/vwr/vehicles.meta',
@@ -1938,7 +1926,7 @@ data_file 'CARCOLS_FILE'           'data/vwr/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/vwr/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/vwr/vehiclelayouts.meta'
 
--- vwstance  (Passat)
+-- vwstance -- (Volkswagen Passat)
 
 files {
     'data/vwstance/vehicles.meta',
@@ -1954,7 +1942,7 @@ data_file 'CARCOLS_FILE'           'data/vwstance/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/vwstance/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/vwstance/vehiclelayouts.meta'
 
--- wraith  (Rolls)
+-- wraith -- (Rolls Royce Wraith)
 
 files {
     'data/wraith/vehicles.meta',
@@ -1970,7 +1958,7 @@ data_file 'CARCOLS_FILE'           'data/wraith/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/wraith/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/wraith/vehiclelayouts.meta'
 
--- yPG205t16A Y B   (Peugeot 205)
+-- yPG205t16A -- (Peugeot 205)
 
 files {
     'data/yPG205t16A/vehicles.meta',
@@ -1986,7 +1974,7 @@ data_file 'CARCOLS_FILE'           'data/yPG205t16A/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/yPG205t16A/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/yPG205t16A/vehiclelayouts.meta'
 
--- zl12017
+-- zl12017 -- (Chevrolet Camaro ZL1)
 
 files {
     'data/zl12017/vehicles.meta',
@@ -2002,7 +1990,7 @@ data_file 'CARCOLS_FILE'           'data/zl12017/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/zl12017/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/zl12017/vehiclelayouts.meta'
 
--- ss7  (Saleen)
+-- ss7 -- (Saleen S7)
 
 files {
     'data/ss7/vehicles.meta',
@@ -2018,7 +2006,7 @@ data_file 'CARCOLS_FILE'           'data/ss7/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ss7/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ss7/vehiclelayouts.meta'
 
--- golfgti7
+-- golfgti7 -- (Volkswagen GTI MK7)
 
 files {
     'data/golfgti7/vehicles.meta',
@@ -2034,7 +2022,7 @@ data_file 'CARCOLS_FILE'           'data/golfgti7/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/golfgti7/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/golfgti7/vehiclelayouts.meta'
 
--- ram2500
+-- ram2500 -- (Dodge RAM 2500)
 
 files {
     'data/ram2500/vehicles.meta',
@@ -2050,7 +2038,7 @@ data_file 'CARCOLS_FILE'           'data/ram2500/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ram2500/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ram2500/vehiclelayouts.meta'
 
--- tfft (Antidisturbios)
+-- tfft -- (Antidisturbios)
 
 files {
     'data/tfft/vehicles.meta',
@@ -2066,7 +2054,7 @@ data_file 'CARCOLS_FILE'           'data/tfft/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/tfft/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/tfft/vehiclelayouts.meta'
 
--- majsr  (R32)
+-- majsr -- (Nissan Skyline R32)
 
 files {
     'data/majsr/vehicles.meta',
@@ -2082,7 +2070,7 @@ data_file 'CARCOLS_FILE'           'data/majsr/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/majsr/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/majsr/vehiclelayouts.meta'
 
--- rx7tunable
+-- rx7tunable -- (Mazda RX7)
 
 files {
     'data/rx7tunable/vehicles.meta',
@@ -2098,7 +2086,7 @@ data_file 'CARCOLS_FILE'           'data/rx7tunable/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rx7tunable/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/rx7tunable/vehiclelayouts.meta'
 
--- gtx
+-- gtx --  (Plymouth GTX)
 
 files {
     'data/gtx/vehicles.meta',
@@ -2114,7 +2102,7 @@ data_file 'CARCOLS_FILE'           'data/gtx/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/gtx/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/gtx/vehiclelayouts.meta'
 
--- 16charger
+-- 16charger -- (Dodge Charger 2016)
 
 files {
     'data/16charger/vehicles.meta',
@@ -2130,7 +2118,7 @@ data_file 'CARCOLS_FILE'           'data/16charger/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/16charger/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/16charger/vehiclelayouts.meta'
 
--- fgt
+-- fgt -- (Ford GT)
 
 files {
     'data/fgt/vehicles.meta',
@@ -2146,7 +2134,7 @@ data_file 'CARCOLS_FILE'           'data/fgt/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fgt/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fgt/vehiclelayouts.meta'
 
--- bmci
+-- bmci -- (BMW M5)
 
 files {
     'data/bmci/vehicles.meta',
@@ -2162,7 +2150,7 @@ data_file 'CARCOLS_FILE'           'data/bmci/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/bmci/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/bmci/vehiclelayouts.meta'
 
--- i8
+-- i8 -- (BMW i8)
 
 files {
     'data/i8/vehicles.meta',
@@ -2178,7 +2166,7 @@ data_file 'CARCOLS_FILE'           'data/i8/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/i8/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/i8/vehiclelayouts.meta'
 
--- 718b
+-- 718b -- (Porsche Cayman 718)
 
 files {
     'data/718b/vehicles.meta',
@@ -2194,7 +2182,7 @@ data_file 'CARCOLS_FILE'           'data/718b/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/718b/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/718b/vehiclelayouts.meta'
 
--- fc15
+-- fc15 -- (Ferrari California) -- (Covertible)
 
 files {
     'data/fc15/vehicles.meta',
@@ -2210,7 +2198,7 @@ data_file 'CARCOLS_FILE'           'data/fc15/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fc15/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fc15/vehiclelayouts.meta'
 
--- vantage
+-- vantage -- (Aston Martin Vantage)
 
 files {
     'data/vantage/vehicles.meta',
@@ -2226,7 +2214,7 @@ data_file 'CARCOLS_FILE'           'data/vantage/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/vantage/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/vantage/vehiclelayouts.meta'
 
--- bmwm8
+-- bmwm8 -- (BMW M8)
 
 files {
     'data/bmwm8/vehicles.meta',
@@ -2242,7 +2230,7 @@ data_file 'CARCOLS_FILE'           'data/bmwm8/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/bmwm8/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/bmwm8/vehiclelayouts.meta'
 
--- rmodx6
+-- rmodx6 -- (BMW X6M)
 
 files {
     'data/rmodx6/vehicles.meta',
@@ -2258,7 +2246,7 @@ data_file 'CARCOLS_FILE'           'data/rmodx6/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rmodx6/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/rmodx6/vehiclelayouts.meta'
 
--- tricolore
+-- tricolore -- (Pagani Zonda Tricolore)
 
 files {
     'data/tricolore/vehicles.meta',
@@ -2274,7 +2262,7 @@ data_file 'CARCOLS_FILE'           'data/tricolore/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/tricolore/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/tricolore/vehiclelayouts.meta'
 
--- c8cop
+-- c8cop -- (Chevrolet Corvette C8 Police)
 
 files {
     'data/c8cop/vehicles.meta',
@@ -2290,7 +2278,7 @@ data_file 'CARCOLS_FILE'           'data/c8cop/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/c8cop/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/c8cop/vehiclelayouts.meta'
 
--- 208gti
+-- 208gti -- (Peugeot 208 GTi)
 
 files {
     'data/208gti/vehicles.meta',
@@ -2306,7 +2294,7 @@ data_file 'CARCOLS_FILE'           'data/208gti/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/208gti/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/208gti/vehiclelayouts.meta'
 
--- godzcanam
+-- godzcanam -- (CAN-AM)
 
 files {
     'data/godzcanam/vehicles.meta',
@@ -2322,7 +2310,7 @@ data_file 'CARCOLS_FILE'           'data/godzcanam/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/godzcanam/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/godzcanam/vehiclelayouts.meta'
 
--- 300sl
+-- 300sl -- (Mercedes Benz 300 SL)
 
 files {
     'data/300sl/vehicles.meta',
@@ -2338,7 +2326,7 @@ data_file 'CARCOLS_FILE'           'data/300sl/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/300sl/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/300sl/vehiclelayouts.meta'
 
--- f355
+-- f355 -- (Ferrari F355)
 
 files {
     'data/f355/vehicles.meta',
@@ -2354,7 +2342,7 @@ data_file 'CARCOLS_FILE'           'data/f355/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f355/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/f355/vehiclelayouts.meta'
 
--- golg2
+-- golg2 -- (Volkswagen Gol G2)
 
 files {
     'data/golg2/vehicles.meta',
@@ -2364,7 +2352,7 @@ files {
 data_file 'HANDLING_FILE'          'data/golg2/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/golg2/vehicles.meta'
 
--- hiluxpol
+-- hiluxpol -- (Toyota Hilux Police)
 
 files {
     'data/hiluxpol/vehicles.meta',
@@ -2376,7 +2364,7 @@ data_file 'HANDLING_FILE'          'data/hiluxpol/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/hiluxpol/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/hiluxpol/carvariations.meta'
 
--- dodgepol
+-- dodgepol -- (Dodge Charger Police)
 
 files {
     'data/dodgepol/vehicles.meta',
@@ -2388,7 +2376,7 @@ data_file 'HANDLING_FILE'          'data/dodgepol/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/dodgepol/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/dodgepol/carvariations.meta'
 
--- bora
+-- bora -- (Volkswagen Bora/Jetta)
 
 files {
     'data/bora/vehicles.meta',
@@ -2400,7 +2388,7 @@ data_file 'HANDLING_FILE'          'data/bora/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/bora/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/bora/carvariations.meta'
 
--- vento
+-- vento -- (Volkswagen Vento)
 
 files {
     'data/vento/vehicles.meta',
@@ -2412,7 +2400,7 @@ data_file 'HANDLING_FILE'          'data/vento/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/vento/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/vento/carvariations.meta'
 
--- rcz
+-- rcz -- (Peugeot RCZ)
 
 files {
     'data/rcz/vehicles.meta',
@@ -2424,7 +2412,7 @@ data_file 'HANDLING_FILE'          'data/rcz/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/rcz/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/rcz/carvariations.meta'
 
--- corsa
+-- corsa -- (Chevrolet Corsa)
 
 files {
     'data/corsa/vehicles.meta',
@@ -2436,7 +2424,7 @@ data_file 'HANDLING_FILE'          'data/corsa/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/corsa/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/corsa/carvariations.meta'
 
--- tr22 (Tesla Roadster)
+-- tr22 -- (Tesla Roadster)
 
 files {
     'data/tr22/vehicles.meta',
@@ -2452,7 +2440,7 @@ data_file 'CARCOLS_FILE'           'data/tr22/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/tr22/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/tr22/vehiclelayouts.meta'
 
--- jesko2020
+-- jesko2020 -- (Koenigsegg Jesko)
 
 files {
     'data/jesko2020/vehicles.meta',
@@ -2469,7 +2457,7 @@ data_file 'VEHICLE_VARIATION_FILE' 'data/jesko2020/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/jesko2020/vehiclelayouts.meta'
 
 
--- ghostewb1  (rolls royce)
+-- ghostewb1  (Rolls Royce Ghost EWB)
 
 files {
     'data/ghostewb1/vehicles.meta',
@@ -2485,7 +2473,7 @@ data_file 'CARCOLS_FILE'           'data/ghostewb1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ghostewb1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/ghostewb1/vehiclelayouts.meta'
 
--- beetle74
+-- beetle74 -- (Volkswagen Beetle 1974)
 
 files {
     'data/beetle74/vehicles.meta',
@@ -2501,7 +2489,7 @@ data_file 'CARCOLS_FILE'           'data/beetle74/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/beetle74/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/beetle74/vehiclelayouts.meta'
 
--- cox2013 (Beetle)
+-- cox2013 (Volkswagen Beetle)
 
 files {
     'data/cox2013/vehicles.meta',
@@ -2517,7 +2505,7 @@ data_file 'CARCOLS_FILE'           'data/cox2013/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cox2013/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cox2013/vehiclelayouts.meta'
 
--- p207
+-- p207 -- (Peugeot 206+)
 
 files {
     'data/p207/vehicles.meta',
@@ -2533,7 +2521,7 @@ data_file 'CARCOLS_FILE'           'data/p207/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/p207/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/p207/vehiclelayouts.meta'
 
--- m4 // m4cs
+-- m4 // m4cs -- (BMW M4 or BMW M4 CS)
 
 files {
     'data/m4/vehicles.meta',
@@ -2549,7 +2537,7 @@ data_file 'CARCOLS_FILE'           'data/m4/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/m4/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/m4/vehiclelayouts.meta'
 
--- golgl
+-- golgl -- (Volkswagen GOl GL)
 
 files {
     'data/golgl/vehicles.meta',
@@ -2561,7 +2549,7 @@ data_file 'HANDLING_FILE'          'data/golgl/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/golgl/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/golgl/carvariations.meta'
 
--- saveiro
+-- saveiro -- (Volkswagen Saveiro)
 
 files {
     'data/saveiro/vehicles.meta',
@@ -2573,7 +2561,7 @@ data_file 'HANDLING_FILE'          'data/saveiro/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/saveiro/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/saveiro/carvariations.meta'
 
--- f12 berlinetta
+-- f12 berlinetta -- (Ferrari F12 Berlinetta)
 
 files {
     'data/f12/vehicles.meta',
@@ -2587,7 +2575,7 @@ data_file 'VEHICLE_METADATA_FILE'  'data/f12/vehicles.meta'
 data_file 'CARCOLS_FILE'           'data/f12/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/f12/carvariations.meta'
 
--- same
+-- same -- (Ambulance)
 
 files {
     'data/same/vehicles.meta',
@@ -2599,7 +2587,7 @@ data_file 'HANDLING_FILE'          'data/same/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/same/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/same/carvariations.meta'
 
--- sandero
+-- sandero -- (Renault Sandero)
 
 files {
     'data/sandero/vehicles.meta',
@@ -2611,7 +2599,7 @@ data_file 'HANDLING_FILE'          'data/sandero/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/sandero/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/sandero/carvariations.meta'
 
--- mgt (maserati GT)
+-- mgt -- (Maserati GT)
 
 files {
     'data/mgt/vehicles.meta',
@@ -2623,7 +2611,7 @@ data_file 'HANDLING_FILE'          'data/mgt/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/mgt/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mgt/carvariations.meta'
 
--- DS3
+-- DS3 -- (Citroën DS3)
 
 files {
     'data/ds3/vehicles.meta',
@@ -2635,7 +2623,7 @@ data_file 'HANDLING_FILE'          'data/ds3/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/ds3/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/ds3/carvariations.meta'
 
--- mc12
+-- mc12 -- (Maserati MC12)
 
 files {
     'data/mc12/vehicles.meta',
@@ -2651,7 +2639,7 @@ data_file 'CARCOLS_FILE'           'data/mc12/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/mc12/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/mc12/vehiclelayouts.meta'
 
--- g65amg
+-- g65amg -- (Mercedes Benz G65 AMG)
 
 files {
     'data/g65amg/vehicles.meta',
@@ -2667,7 +2655,7 @@ data_file 'CARCOLS_FILE'           'data/g65amg/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/g65amg/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/g65amg/vehiclelayouts.meta'
 
--- cruze
+-- cruze -- (Chevrolet Cruze)
 
 files {
     'data/cruze/vehicles.meta',
@@ -2679,7 +2667,7 @@ data_file 'HANDLING_FILE'          'data/cruze/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/cruze/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cruze/carvariations.meta'
 
--- one77
+-- one77 -- (Aston Martin One 77)
 
 files {
     'data/one77/vehicles.meta',
@@ -2691,7 +2679,7 @@ data_file 'HANDLING_FILE'          'data/one77/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/one77/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/one77/carvariations.meta'
 
--- wrxsti
+-- wrxsti -- (Subaru Impreza WRX STI)
 
 files {
     'data/wrxsti/vehicles.meta',
@@ -2703,7 +2691,7 @@ data_file 'HANDLING_FILE'          'data/wrxsti/handling.meta'
 data_file 'VEHICLE_METADATA_FILE'  'data/wrxsti/vehicles.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/wrxsti/carvariations.meta'
 
--- ds4
+-- ds4 -- (Citroën DS4)
 
 files {
     'data/ds4/vehicles.meta',
@@ -2718,7 +2706,7 @@ data_file 'VEHICLE_VARIATION_FILE' 'data/ds4/carvariations.meta'
 data_file 'CARCOLS_FILE'           'data/ds4/carcols.meta'
 ------------------------------------- MOTOS ----------------------------------------
 
--- motobm
+-- motobm -- (BMW Police Bike)
 
 files {
     'data/motobm/vehicles.meta',
@@ -2734,7 +2722,7 @@ data_file 'CARCOLS_FILE'           'data/motobm/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/motobm/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/motobm/vehiclelayouts.meta'
 
--- yz250f
+-- yz250f -- (Yamaha YZ 250F)
 
 files {
     'data/yz250f/vehicles.meta',
@@ -2750,7 +2738,7 @@ data_file 'CARCOLS_FILE'           'data/yz250f/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/yz250f/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/yz250f/vehiclelayouts.meta'
 
--- Yamaha R1
+-- 20r1 -- (Yamaha R1)
 
 files {
     'data/20r1/vehicles.meta',
@@ -2766,7 +2754,7 @@ data_file 'CARCOLS_FILE'           'data/20r1/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/20r1/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/20r1/vehiclelayouts.meta'
 
--- Harley
+-- hvrod -- (Harley Davidson)
 
 files {
     'data/hvrod/vehicles.meta',
@@ -2782,7 +2770,7 @@ data_file 'CARCOLS_FILE'           'data/hvrod/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/hvrod/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/hvrod/vehiclelayouts.meta'
 
--- BMW 1001rr
+-- bmws -- (BMW 1001 RR)
 
 files {
     'data/bmws/vehicles.meta',
@@ -2798,7 +2786,7 @@ data_file 'CARCOLS_FILE'           'data/bmws/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/bmws/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/bmws/vehiclelayouts.meta'
 
--- Yamaha MT07
+-- fz07 -- (Yamaha MT07)
 
 files {
     'data/fz07/vehicles.meta',
@@ -2814,7 +2802,7 @@ data_file 'CARCOLS_FILE'           'data/fz07/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fz07/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fz07/vehiclelayouts.meta'
 
--- Ducatti v4sf
+-- v4sf -- (Ducati StreetFighter V4)
 
 files {
     'data/v4sf/vehicles.meta',
@@ -2830,7 +2818,7 @@ data_file 'CARCOLS_FILE'           'data/v4sf/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/v4sf/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/v4sf/vehiclelayouts.meta'
 
--- Suzuki gsxr19
+-- gsxr19 -- (Suzuki gsxr19)
 
 files {
     'data/gsxr19/vehicles.meta',
@@ -2846,7 +2834,7 @@ data_file 'CARCOLS_FILE'           'data/gsxr19/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/gsxr19/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/gsxr19/vehiclelayouts.meta'
 
--- KTM
+-- duker -- (KTM Duke)
 
 files {
     'data/duker/vehicles.meta',
@@ -2862,7 +2850,7 @@ data_file 'CARCOLS_FILE'           'data/duker/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/duker/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/duker/vehiclelayouts.meta'
 
--- africat  (Africa Twin)
+-- africat -- (Honda Africa Twin)
 
 files {
     'data/africat/vehicles.meta',
@@ -2878,7 +2866,7 @@ data_file 'CARCOLS_FILE'           'data/africat/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/africat/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/africat/vehiclelayouts.meta' 
 
--- cg160
+-- cg160 -- (Honda CG 160)
 
 files {
     'data/cg160/vehicles.meta',
@@ -2894,7 +2882,7 @@ data_file 'CARCOLS_FILE'           'data/cg160/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/cg160/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/cg160/vehiclelayouts.meta' 
 
--- crf450r
+-- crf450r -- (Honda CRF 450)
 
 files {
     'data/crf450r/vehicles.meta',
@@ -2910,7 +2898,7 @@ data_file 'CARCOLS_FILE'           'data/crf450r/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/crf450r/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/crf450r/vehiclelayouts.meta'
 
--- fz50
+-- fz50 -- (Suzuki FZ50)
 
 files {
     'data/fz50/vehicles.meta',
@@ -2926,7 +2914,7 @@ data_file 'CARCOLS_FILE'           'data/fz50/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/fz50/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/fz50/vehiclelayouts.meta'
 
--- hcbr17
+-- hcbr17 -- (Honda CBR 1000)
 
 files {
     'data/hcbr17/vehicles.meta',
@@ -2942,7 +2930,7 @@ data_file 'CARCOLS_FILE'           'data/hcbr17/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/hcbr17/carvariations.meta'
 data_file 'VEHICLE_LAYOUTS_FILE'   'data/hcbr17/vehiclelayouts.meta'
 
--- d99
+-- d99 -- (Ducati 1199)
 
 files {
     'data/d99/vehicles.meta',
@@ -2960,7 +2948,7 @@ data_file 'VEHICLE_LAYOUTS_FILE'   'data/d99/vehiclelayouts.meta'
 
 ------------------------------------- AVIONES --------------------------------------
 
--- a320
+-- a320 -- (Airbus A320)
 
 files {
     'data/a320/vehicles.meta',
